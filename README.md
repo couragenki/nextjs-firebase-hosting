@@ -1,4 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## このリポジトリの目的
 
-作成したチュートリアル
-https://next-js-tutorial-murex.vercel.app/
+Next.jsで作成したサイトをFireBaseにデプロイする
+
+https://hobby-plastic-model.web.app/
